@@ -1,0 +1,14 @@
+{
+  "1": {
+    "sports": "Tennis",
+    "playerid": "pl001"
+  },
+  "2": {
+    "sports": "Cricket",
+    "playerid": "pl002"
+  },
+  "3": {
+    "sports": "Tennis",
+    "playerid": "pl003"
+  }
+}
